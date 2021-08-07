@@ -1,4 +1,4 @@
-package com.wallet;
+package com.squareshift;
 
 public class DummyObject {
 
